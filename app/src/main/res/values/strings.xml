@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo Scroll View</string>
+    <string name="text">text</string>
+    <string name="button">Button</string>
 </resources>
